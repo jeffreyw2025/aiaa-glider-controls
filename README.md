@@ -1,6 +1,6 @@
 # aiaa-glider-controls
 
-Controls for the X-1 glider designed by the Cooper Union's AIAA team.
+This repository will host assignments given to students on the Controls team, as well as the controls code for the glider itself.
 
 Competition Rules:
 
